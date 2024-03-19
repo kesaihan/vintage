@@ -1,0 +1,35 @@
+/* 导入一个vintage风格的字体 */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body {
+    font-family: 'Playfair Display', serif;
+    background-color: #f8f0e3;
+    color: #4d3b33;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #e6d6c3;
+    padding: 20px;
+}
+
+nav {
+    /* 导航栏样式 */
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: #e6d6c3;
+    padding: 20px;
+    text-align: center;
+}
